@@ -1,0 +1,13 @@
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.exe
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.deps.json
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.runtimeconfig.json
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.runtimeconfig.dev.json
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.dll
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\bin\Debug\netcoreapp3.1\minmax.pdb
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.csproj.AssemblyReference.cache
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.AssemblyInfoInputs.cache
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.AssemblyInfo.cs
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.csproj.CoreCompileInputs.cache
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.dll
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.pdb
+C:\Users\giuseppe.fusco.ITT\source\repos\minmax\minmax\obj\Debug\netcoreapp3.1\minmax.genruntimeconfig.cache
